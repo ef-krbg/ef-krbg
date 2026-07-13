@@ -15,7 +15,7 @@
 -->
 
 <div>
-    <img src="./assets/about_enes.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
