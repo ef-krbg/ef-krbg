@@ -10,17 +10,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Enes+F.+Karabag;Digitalization+Manager" alt="Digitalization Manager"/>
 </a>
 
-<!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
 
 <div>
     <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
+
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,apple,blender,bootstrap,cpp,css,discord,figma,git,github,gmail,html,ai,java,js,linkedin,linux,mysql,nodejs,ps,powershell,svg,ubuntu,unity,unreal,visualstudio,vscode,windows)](https://skillicons.dev)
 
@@ -32,20 +27,17 @@
 <div>
     <p align="left">
   <a href="https://www.linkedin.com/in/enes-fatih-karabag/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="mailto:f.karabag3442@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35" height="35"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
   </a>
   <a href="https://www.instagram.com/ef-krbg/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="35" height="35"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
 </div>
 
-<!--
-     Oh, hello there, recruiters!
--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
