@@ -26,7 +26,7 @@
 ### Connect with me!
 <div>
     <p align="left">
-  <a href="www.linkedin.com/in/enes-fatih-karabag-b806603b5/">
+  <a href="https://www.linkedin.com/in/enes-fatih-karabag-b806603b5/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="mailto:f.karabag3442@gmail.com">
