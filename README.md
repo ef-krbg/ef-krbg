@@ -32,7 +32,7 @@
   <a href="mailto:f.karabag3442@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50"/>
   </a>
-  <a href="https://www.instagram.com/ef-krbg/">
+  <a href="https://www.instagram.com/ef_krbg/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
   </a>
 </p>
